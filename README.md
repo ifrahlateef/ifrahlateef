@@ -37,14 +37,12 @@ and once it was build it was pushed to docker hub.
 
 ### Built With
 
-Kubernetes
-apiVersion: v1
-type: LoadBalancer
-ports:
-protocol: TCP
-port: 80
-targetPort: 80
-nodePort: 
+Kubernetes,
+apiVersion: v1,
+type: LoadBalancer,
+protocol: TCP,
+port: 80,
+targetPort: 80,
 
 
 ### References
