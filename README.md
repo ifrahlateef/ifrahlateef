@@ -38,19 +38,30 @@ and once it was build it was pushed to docker hub.
 ### Built With
 
 Kubernetes
+
 apiVersion: v1
+
 type: LoadBalancer
+
 ports:
+
 protocol: TCP
+
 port: 80
+
 targetPort: 80
+
 nodePort: 
+
 
 ### References
 
 [Kubernetes](https://kubernetes.io/docs/concepts/overview/what-is-kubernetes/)
+
 [Microk8s](https://github.com/ubuntu/microk8s)
+
 [googleapis](URL = 'https://www.googleapis.com/books/v1/volumes')
+
 [YAML](https://blog.stackpath.com/yaml/)
 
 
@@ -59,8 +70,11 @@ nodePort:
 
 
 Najam us Samad
+
 Alexander Herzog
+
 Harry Agyemang
+
 Ifrah Lateef
     
 
