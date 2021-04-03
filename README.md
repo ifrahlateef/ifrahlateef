@@ -50,10 +50,12 @@ nodePort:
 ### References
 
 [Kubernetes](https://kubernetes.io/docs/concepts/overview/what-is-kubernetes/)
-[Microk8s](https://github.com/ubuntu/microk8s)
-('https://www.googleapis.com/books/v1/volumes')
-[YAML](https://blog.stackpath.com/yaml/)
 
+[Microk8s](https://github.com/ubuntu/microk8s)
+
+('https://www.googleapis.com/books/v1/volumes')
+
+[YAML](https://blog.stackpath.com/yaml/)
 
 
 ### Contributors
